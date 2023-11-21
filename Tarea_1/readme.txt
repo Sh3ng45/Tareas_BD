@@ -3,7 +3,7 @@ Nombres:
         Francisco Dominguez Rol: 202104520-1
         Vicente Henriquez Rol: 202051507-7
 
-Ejecutar el codigo python, y seguir lo escrito en la primera aclaración
+Ejecutar el codigo python, y luego seguir lo escrito en la primera aclaración
 
 Aclaraciones:
 -Asumimos que la base de datos Spot-USM ya está creada, por lo que el usuario solo debe ingresar el nombre del servidor donde está creada la bd
