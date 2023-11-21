@@ -1,7 +1,7 @@
 Fecha: 15/04/2023
 Nombres:
-        Francisco Dominguez Rol: 202104520-1
         Vicente Henriquez Rol: 202051507-7
+        Francisco Dominguez Rol: 202104520-1
 
 Ejecutar el codigo python, y luego seguir lo escrito en la primera aclaración
 
